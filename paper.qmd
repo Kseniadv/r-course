@@ -5,6 +5,8 @@ format:
     embed-resources: true
 ---
 
+Ящик с усами для длины клюва.
+
 ```{r}
 data <- read.csv("data/penguins.csv")
 
